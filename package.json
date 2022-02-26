@@ -1,0 +1,27 @@
+{
+  "name": "codex-eleventy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfalconi/codex-eleventy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vfalconi/codex-eleventy/issues"
+  },
+  "homepage": "https://github.com/vfalconi/codex-eleventy#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "browser-sync": "^2.27.7",
+    "dotenv": "^16.0.0",
+    "html-minifier": "^4.0.0",
+    "luxon": "^2.3.1"
+  }
+}
